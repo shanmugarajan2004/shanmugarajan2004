@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  🔗 <b>LinkedIn URL:</b> <a href="https://linkedin.com/in/shanmugarajan-a-l-1913342a9" target="_blank">https://linkedin.com/in/shanmugarajan-a-l-1913342a9</a>
-</p>
-
 ---
 
 ## ⚡ About Me
