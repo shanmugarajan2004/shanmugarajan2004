@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  🔗 <b>LinkedIn URL:</b> <a href="https://linkedin.com/in/shanmugarajan-a-l-1913342a9" target="_blank">https://linkedin.com/in/shanmugarajan-a-l-1913342a9</a>
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -37,43 +41,43 @@ I am a **B.Tech Information Technology Engineering** student (Class of 2026) and
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-2d3748?style=for-the-badge&logo=java&logoColor=38bdf8" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-2d3748?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-2d3748?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="SQL" />
-  <img src="https://img.shields.io/badge/C++-2d3748?style=for-the-badge&logo=cplusplus&logoColor=38bdf8" alt="C++" />
-  <img src="https://img.shields.io/badge/C-2d3748?style=for-the-badge&logo=c&logoColor=38bdf8" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-2d3748?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-2d3748?style=for-the-badge&logo=javascript&logoColor=38bdf8" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ### 🌐 Mobile & Full-Stack Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-2d3748?style=for-the-badge&logo=flutter&logoColor=38bdf8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Node.js-2d3748?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-2d3748?style=for-the-badge&logo=express&logoColor=38bdf8" alt="Express" />
-  <img src="https://img.shields.io/badge/Next.js-2d3748?style=for-the-badge&logo=nextdotjs&logoColor=38bdf8" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-2d3748?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2d3748?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=38bdf8" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 ### ☁️ Cloud, Databases & Integrations
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-2d3748?style=for-the-badge&logo=microsoftazure&logoColor=38bdf8" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2d3748?style=for-the-badge&logo=postgresql&logoColor=38bdf8" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-2d3748?style=for-the-badge&logo=supabase&logoColor=38bdf8" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MySQL-2d3748?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Twilio_API-2d3748?style=for-the-badge&logo=twilio&logoColor=38bdf8" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
 </p>
 
 ### 🤖 AI Engineering & Developer Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-2d3748?style=for-the-badge&logo=langchain&logoColor=38bdf8" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Linux-2d3748?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-2d3748?style=for-the-badge&logo=git&logoColor=38bdf8" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-2d3748?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-2d3748?style=for-the-badge&logo=postman&logoColor=38bdf8" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-2d3748?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="VS Code" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
